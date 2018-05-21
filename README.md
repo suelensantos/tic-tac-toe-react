@@ -1,2 +1,11 @@
-# tic-tac-toe-react
-Tutorial: Intro to React -> https://reactjs.org/tutorial/tutorial.html
+Projeto Tic Tac Toe
+-----------------------
+
+##### Proveniente do Tutorial: Intro to React 
+[Site Tutorial React](https://reactjs.org/tutorial/tutorial.html)
+
+##### To run locally:
+
+```
+    $ yarn start
+```
